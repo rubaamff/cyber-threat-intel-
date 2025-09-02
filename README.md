@@ -1,8 +1,8 @@
-# Cyber Threat Intelligence Framework
+# A Unified and Transparent IDS Framework with Cross-Dataset Evaluation, Multi-Model Learning, and Blockchain-Based Logging
 
 This repository contains the source code, processed datasets, and experimental scripts used in our cyber threat intelligence study. It includes a reproducible Jupyter notebook and detailed documentation to ensure full transparency and facilitate independent replication.
 
-## Project Structure
+## Research Structure
 
 - `README.md`: This file.
 - `requirements.txt`: Python dependencies required to run the project.
